@@ -10,7 +10,7 @@
     "babel-polyfill": "^6.26.0",
     "browser-locale": "^1.0.3",
     "classnames": "^2.2.5",
-    "date-fns": "^2.0.0-alpha.11",
+    "date-fns": "^2.29.3",
     "dexie": "^2.0.1",
     "dotenv": "^8.2.0",
     "flow-bin": "^0.72.0",
