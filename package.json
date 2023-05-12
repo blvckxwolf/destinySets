@@ -13,7 +13,7 @@
     "date-fns": "^2.0.0-alpha.11",
     "dexie": "^2.0.1",
     "dotenv": "^8.2.0",
-    "flow-bin": "^0.72.0",
+    "flow-bin": "^0.204.0",
     "image-size": "^0.6.2",
     "immer": "^1.2.0",
     "indexeddbshim": "^3.8.0",
