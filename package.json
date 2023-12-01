@@ -18,7 +18,7 @@
     "immer": "^1.2.0",
     "indexeddbshim": "^3.8.0",
     "lodash": "^4.17.4",
-    "npm": "^6.0.0",
+    "npm": "^7.0.0",
     "popper.js": "^1.14.1",
     "prettier": "^1.18.2",
     "react": "^16.8.6",
