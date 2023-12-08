@@ -16,7 +16,7 @@
     "flow-bin": "^0.72.0",
     "image-size": "^0.6.2",
     "immer": "^1.2.0",
-    "indexeddbshim": "^3.8.0",
+    "indexeddbshim": "^13.0.0",
     "lodash": "^4.17.4",
     "npm": "^6.0.0",
     "popper.js": "^1.14.1",
